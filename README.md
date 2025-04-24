@@ -17,8 +17,5 @@ Ependymal cells (ECs) are specialized multi-ciliated glial cells that line the v
 ## Raw datasets
 ## Single cell transcriptomics 
 scRNA-Seq datasets characterizing changes within the SVZ niche following ependymal dysfunction at 6 months and 12 months <br/>
-NCBI GEO: [GSE255150](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE142854) <br/>
-
-## MALDI-TOF Spatial lipidomics
-
+NCBI GEO: [GSE255150] 
 
